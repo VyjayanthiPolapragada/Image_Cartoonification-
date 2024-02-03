@@ -15,7 +15,9 @@ Cartoon effect is applied using the following steps for an image (each image tra
 
 main.py consists of the main code to initiate a tkinter event (dialog box) to uplaod the image (using easygui) and save the image to the original path
 
-Libraries used: opencv,numpy,tkinter,PIL,imageio,matplotlib,os,sys (except easygui other libraries are in-built jupyter notebook)
+Libraries used: opencv,numpy,tkinter,PIL,easygui,imageio,matplotlib,os,sys (except easygui other libraries are in-built jupyter notebook)
+
+*Sample images and their output is attached above
 
 
 
